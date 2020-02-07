@@ -16,6 +16,9 @@
  * Authored by Patrick Csikos <akzeldev@fastmail.com>
  */
 
+@define-color colorPrimary @GRAPE_900;
+@define-color textColorPrimary @SILVER_100;
+
 .number-label {
     font-size: 12em;
     font-weight: 600;
